@@ -116,6 +116,10 @@ PRODUCT_PACKAGES += \
     Launcher3Dark \
 
 
+# Fonts
+PRODUCT_PACKAGES += \
+    CustomFonts
+
 # Extra tools
 PRODUCT_PACKAGES += \
     openvpn \
