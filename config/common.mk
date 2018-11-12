@@ -99,8 +99,8 @@ PRODUCT_PACKAGES += \
     Calculator \
     LatinIME \
     BluetoothExt \
-    Launcher3Dark \
-    H4K3ROMExtras
+    Launcher3Dark 
+#    H4K3ROMExtras
 
 
 # Extra tools
