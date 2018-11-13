@@ -87,6 +87,7 @@ PRODUCT_PACKAGES += \
     PhaseBeam \
     F-Droid \
     FDroidPrivilegedExtension \
+    OmniSwitch \
     PdfViewer 
 
 # Include explicitly to work around GMS issues
