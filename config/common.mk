@@ -98,6 +98,14 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Phonograph
 
+# materialistic
+PRODUCT_PACKAGES += \
+    materialistic
+    
+# qksms
+PRODUCT_PACKAGES += \
+    QKSMS   
+
 # Jelly
 #PRODUCT_PACKAGES += \
 #    Jelly   
