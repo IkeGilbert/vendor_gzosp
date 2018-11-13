@@ -93,6 +93,14 @@ PRODUCT_PACKAGES += \
 # AudioFX
 PRODUCT_PACKAGES += \
     AudioFX
+    
+ # Phonograph
+PRODUCT_PACKAGES += \
+    Phonograph
+
+# Jelly
+PRODUCT_PACKAGES += \
+    Jelly   
 
 # Extra Optional packages
 PRODUCT_PACKAGES += \
@@ -100,7 +108,7 @@ PRODUCT_PACKAGES += \
     LatinIME \
     BluetoothExt \
     Launcher3Dark 
-#    H4K3ROMExtras
+
 
 
 # Extra tools
