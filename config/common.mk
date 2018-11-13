@@ -99,8 +99,8 @@ PRODUCT_PACKAGES += \
     Phonograph
 
 # Jelly
-PRODUCT_PACKAGES += \
-    Jelly   
+#PRODUCT_PACKAGES += \
+#    Jelly   
 
 # Extra Optional packages
 PRODUCT_PACKAGES += \
