@@ -83,7 +83,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Basic \
     LiveWallpapersPicker \
-    PhaseBeam
+    SlimWallpapers \
+    PhaseBeam \
+    F-Droid \
+    FDroidPrivilegedExtension \
+    PdfViewer 
 
 # Include explicitly to work around GMS issues
 PRODUCT_PACKAGES += \
@@ -97,18 +101,6 @@ PRODUCT_PACKAGES += \
  # Phonograph
 PRODUCT_PACKAGES += \
     Phonograph
-
-# materialistic
-PRODUCT_PACKAGES += \
-    materialistic
-    
-# qksms
-PRODUCT_PACKAGES += \
-    QKSMS   
-
-# Jelly
-#PRODUCT_PACKAGES += \
-#    Jelly   
 
 # Extra Optional packages
 PRODUCT_PACKAGES += \
