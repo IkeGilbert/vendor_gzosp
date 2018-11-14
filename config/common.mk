@@ -88,7 +88,8 @@ PRODUCT_PACKAGES += \
     F-Droid \
     FDroidPrivilegedExtension \
     OmniSwitch \
-    PdfViewer 
+    PdfViewer \
+    Terminal
 
 # Include explicitly to work around GMS issues
 PRODUCT_PACKAGES += \
