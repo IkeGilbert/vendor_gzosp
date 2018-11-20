@@ -83,7 +83,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Basic \
     LiveWallpapersPicker \
-    SlimWallpapers \
+    HKWallpapers \
     PhaseBeam \
     F-Droid \
     FDroidPrivilegedExtension \
