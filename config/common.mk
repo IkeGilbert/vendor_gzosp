@@ -83,7 +83,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     Basic \
     LiveWallpapersPicker \
-    HKWallpapers \
     PhaseBeam \
     F-Droid \
     FDroidPrivilegedExtension \
@@ -95,6 +94,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libprotobuf-cpp-full \
     librsjni
+
+# HKWallpaper App
+PRODUCT_PACKAGES += \
+   HKWallpapers
 
 # AudioFX
 PRODUCT_PACKAGES += \
