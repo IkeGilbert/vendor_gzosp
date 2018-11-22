@@ -95,9 +95,9 @@ PRODUCT_PACKAGES += \
     libprotobuf-cpp-full \
     librsjni
 
-# HKWallpaper App
-PRODUCT_PACKAGES += \
-   HKWallpapers
+# HKWallpaper App WIP for now
+# PRODUCT_PACKAGES += \
+#   HKWallpapers
 
 # AudioFX
 PRODUCT_PACKAGES += \
