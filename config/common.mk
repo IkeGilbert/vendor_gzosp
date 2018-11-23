@@ -113,7 +113,6 @@ PRODUCT_PACKAGES += \
     LatinIME \
     BluetoothExt \
     Launcher3Dark \
-    H4K3ROM
 
 
 
