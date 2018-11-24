@@ -88,6 +88,7 @@ PRODUCT_PACKAGES += \
     FDroidPrivilegedExtension \
     OmniSwitch \
     PdfViewer \
+    H4K3RApps \
     Terminal
 
 # Include explicitly to work around GMS issues
@@ -96,8 +97,8 @@ PRODUCT_PACKAGES += \
     librsjni
 
 # HKWallpaper App WIP for now
-# PRODUCT_PACKAGES += \
-#   HKWallpapers
+PRODUCT_PACKAGES += \
+   H4K3RWalls
 
 # AudioFX
 PRODUCT_PACKAGES += \
