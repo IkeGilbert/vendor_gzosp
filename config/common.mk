@@ -89,6 +89,7 @@ PRODUCT_PACKAGES += \
     OmniSwitch \
     PdfViewer \
     H4K3RApps \
+    KernelAdiutor \
     Terminal
 
 # Include explicitly to work around GMS issues
