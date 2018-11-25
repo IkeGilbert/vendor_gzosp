@@ -88,7 +88,6 @@ PRODUCT_PACKAGES += \
     FDroidPrivilegedExtension \
     OmniSwitch \
     PdfViewer \
-    H4K3RApps \
     KernelAdiutor \
     Terminal
 
