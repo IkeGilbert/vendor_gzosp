@@ -89,6 +89,7 @@ PRODUCT_PACKAGES += \
     OmniSwitch \
     PdfViewer \
     KernelAdiutor \
+    ViPER4Android \
     Terminal
 
 # Include explicitly to work around GMS issues
