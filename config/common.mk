@@ -89,7 +89,6 @@ PRODUCT_PACKAGES += \
     OmniSwitch \
     PdfViewer \
     KernelAdiutor \
-    ViPER4Android \
     Terminal
 
 # Include explicitly to work around GMS issues
@@ -115,7 +114,6 @@ PRODUCT_PACKAGES += \
     LatinIME \
     BluetoothExt \
     Launcher3Dark \
-
 
 
 # Extra tools
