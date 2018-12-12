@@ -54,6 +54,7 @@
 #   NEED_KERNEL_MODULE_SYSTEM          = Optional, if true, install kernel
 #                                          modules in system instead of vendor
 
+ifneq ($(TARGET_PROVIDES_KERNEL_MAKEFILE),true)
 ifneq ($(TARGET_NO_KERNEL),true)
 
 ## Externally influenced variables
@@ -338,3 +339,4 @@ kernel: $(INSTALLED_KERNEL_TARGET)
 dtbo: $(INSTALLED_DTBOIMAGE_TARGET)
 
 endif # TARGET_NO_KERNEL
+endif # TARGET_PROVIDES_KERNEL_MAKEFILE
