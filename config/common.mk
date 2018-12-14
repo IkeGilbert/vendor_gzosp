@@ -93,8 +93,18 @@ PRODUCT_PACKAGES += \
 
 # Include explicitly to work around GMS issues
 PRODUCT_PACKAGES += \
+<<<<<<< HEAD
     libprotobuf-cpp-full \
     librsjni
+=======
+    QStilesSquare \
+    QStilesRoundedSquare \
+    QStilesSquircle \
+    QStilesTearDrop \
+    QSTilesJustIcons \
+    QStilesCircleOutline \
+    QSTilesCircleGradient
+>>>>>>> bba23060... QSTiles: Add few more styles [1/3]
 
 # HKWallpaper App WIP for now
 PRODUCT_PACKAGES += \
