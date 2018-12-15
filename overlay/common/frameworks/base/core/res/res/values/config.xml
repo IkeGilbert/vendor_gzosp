@@ -84,10 +84,8 @@
     <string-array name="config_ephemeralResolverPackage">
         <item>com.google.android.gms</item>
     </string-array>
-<<<<<<< HEAD
-=======
 
-    <!-- Boolean indicating whether the HWC setColorTransform function can be performed efficiently
+     <!-- Boolean indicating whether the HWC setColorTransform function can be performed efficiently
          in hardware. -->
     <bool name="config_setColorTransformAccelerated">true</bool>
 
@@ -132,6 +130,6 @@
     <string-array name="config_fontPackages" translatable="false">
         <item>com.custom.fonts</item>
     </string-array>
->>>>>>> 7830f8e... Add custom font package
+
 </resources>
 
