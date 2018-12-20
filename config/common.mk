@@ -93,7 +93,6 @@ PRODUCT_PACKAGES += \
 
 # Include explicitly to work around GMS issues
 PRODUCT_PACKAGES += \
-<<<<<<< HEAD
     libprotobuf-cpp-full \
     librsjni
     QStilesSquare \
