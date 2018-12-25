@@ -90,6 +90,63 @@ PRODUCT_PACKAGES += \
     PdfViewer \
     KernelAdiutor \
     Terminal
+# Themes
+# Accents
+PRODUCT_PACKAGES += \
+    PixelTheme \
+    AmberAccent \
+    BlueAccent \
+    BlueGreyAccent \
+    BrownAccent \
+    CyanAccent \
+    CandyRedAccent \
+    DeepOrangeAccent \
+    DeepPurpleAccent \
+    ExtendedGreenAccent \
+    GreenAccent \
+    GreyAccent \
+    IndigoAccent \
+    JadeGreenAccent \
+    LightBlueAccent \
+    LightGreenAccent \
+    LimeAccent \
+    OrangeAccent \
+    PaleBlueAccent \
+    PaleRedAccent \
+    PinkAccent \
+    PurpleAccent \
+    RedAccent \
+    TealAccent \
+    YellowAccent
+
+# UI Variants
+PRODUCT_PACKAGES += \
+    SystemDarkTheme \
+    SettingsDarkTheme \
+    SystemUIDarkTheme \
+    SystemBlackTheme \
+    SettingsBlackTheme \
+    SystemUIBlackTheme \
+    SystemExtendedTheme \
+    SettingsExtendedTheme \
+    SystemUIExtendedTheme \
+    SystemChocolateTheme \
+    SettingsChocolateTheme \
+    SystemUIChocolateTheme \
+    ContactsThemeBlack \
+    DialerThemeBlack \
+    FilesThemeBlack \
+    ContactsThemeDark \
+    DialerThemeDark \
+    FilesThemeDark \
+    ContactsThemeChocolate \
+    DialerThemeChocolate \
+    FilesThemeChocolate \
+    WellbeingChocolateTheme \
+    ContactsThemeExtended \
+    DialerThemeExtended \
+    FilesThemeExtended \
+    WellbeingExtendedTheme
 
 # Include explicitly to work around GMS issues
 PRODUCT_PACKAGES += \

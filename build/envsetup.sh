@@ -86,8 +86,8 @@ function gzospremote()
 
     project="${proj//\//_}"
 
-    git remote add gzosp "git@github.com:GZOSP/$pfx$project"
-    echo "Remote 'gzosp' created"
+    git remote add gzosp "git@github.com:H4K3ROM/$pfx$project"
+    echo "Remote 'H4K3ROM' created"
 }
 
 function cmremote()
@@ -187,6 +187,6 @@ function hmm() #hidden
     done |column
 }
 
-gzosp_append_hmm "gzospremote" "Add a git remote for matching gzosp repository"
+gzosp_append_hmm "gzospremote" "Add a git remote for matching H4K3ROM repository"
 gzosp_append_hmm "aospremote" "Add git remote for matching AOSP repository"
 gzosp_append_hmm "cafremote" "Add git remote for matching CodeAurora repository."
