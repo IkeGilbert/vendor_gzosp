@@ -89,7 +89,9 @@ PRODUCT_PACKAGES += \
     OmniSwitch \
     PdfViewer \
     KernelAdiutor \
-    Terminal
+    Terminal \
+    OmniJaws
+
 # Themes
 # Accents
 PRODUCT_PACKAGES += \
@@ -165,9 +167,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
    H4K3RWalls
 
-# AudioFX
+# DSPManager
 PRODUCT_PACKAGES += \
-    AudioFX
+    DSPManager
     
  # Phonograph
 PRODUCT_PACKAGES += \
