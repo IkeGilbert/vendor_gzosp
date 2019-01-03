@@ -3281,6 +3281,8 @@
   <apn carrier="Telstra MMS" mcc="505" mnc="72" apn="Telstra.mms" mmsc="http://mmsc.telstra.com:8002" mmsproxy="10.1.1.180" mmsport="80" type="mms" />
   <apn carrier="Telstra Internet" mcc="505" mnc="72" apn="Telstra.wap" type="default,supl" />
   <apn carrier="Telstra Internet" mcc="505" mnc="72" apn="Telstra.wap" proxy="" port="" user="" password="" mmsc="" type="default,supl" />
+  <apn carrier="Ting MMS" mcc="310" mnc="260" apn="wholesale" mmsc="http://wholesale.mmsmvno.com/mms/wapenc" mmsproxy="" mmsport="" type="mms" />
+  <apn carrier="Ting Data" mcc="310" mnc="260" apn="wholesale" proxy="" port="" user="" password="" mmsc="http://wholesale.mmsmvno.com/mms/wapenc" type="default,admin,fota,mms,supl,hipri,internet,dun" />
   <apn carrier="VF AU PXT" mcc="505" mnc="88" apn="live.vodafone.com" mmsc="http://pxt.vodafone.net.au/pxtsend" mmsproxy="10.202.2.60" mmsport="8080" type="mms" />
   <apn carrier="VF Internet" mcc="505" mnc="88" apn="vfinternet.au" type="default,supl" />
   <apn carrier="Optus Internet" mcc="505" mnc="90" apn="internet" type="default,supl" />
