@@ -163,9 +163,13 @@ PRODUCT_PACKAGES += \
     QSTilesCircleGradient
 
 
-# HKWallpaper App WIP for now
+# H4K3R Wallpaper App
 PRODUCT_PACKAGES += \
    H4K3RWalls
+
+# H4K3R WWW App
+PRODUCT_PACKAGES += \
+   H4K3RWebb
 
 # DSPManager
 PRODUCT_PACKAGES += \
