@@ -84,8 +84,6 @@ PRODUCT_PACKAGES += \
     Basic \
     LiveWallpapersPicker \
     PhaseBeam \
-    F-Droid \
-    FDroidPrivilegedExtension \
     OmniSwitch \
     PdfViewer \
     KernelAdiutor \
